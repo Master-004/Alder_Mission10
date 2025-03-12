@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alder_Mission10.props" />
+</Project>

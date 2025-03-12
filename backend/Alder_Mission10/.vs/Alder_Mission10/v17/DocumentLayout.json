@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|c:\\users\\salde\\source\\repos\\alder_mission10\\backend\\alder_mission10\\alder_mission10\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|solutionrelative:alder_mission10\\controllers\\bowlercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|c:\\users\\salde\\source\\repos\\alder_mission10\\backend\\alder_mission10\\alder_mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|solutionrelative:alder_mission10\\data\\bowlerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|c:\\users\\salde\\source\\repos\\alder_mission10\\backend\\alder_mission10\\alder_mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|solutionrelative:alder_mission10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|c:\\users\\salde\\source\\repos\\alder_mission10\\backend\\alder_mission10\\alder_mission10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|solutionrelative:alder_mission10\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|c:\\users\\salde\\source\\repos\\alder_mission10\\backend\\alder_mission10\\alder_mission10\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|solutionrelative:alder_mission10\\data\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|c:\\users\\salde\\source\\repos\\alder_mission10\\backend\\alder_mission10\\alder_mission10\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|solutionrelative:alder_mission10\\data\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|c:\\users\\salde\\source\\repos\\alder_mission10\\backend\\alder_mission10\\alder_mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{715BE443-1AF3-4700-8F44-36C3A609D2CB}|Alder_Mission10\\Alder_Mission10.csproj|solutionrelative:alder_mission10\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Alder_Mission10\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Alder_Mission10\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T02:56:11.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlerController.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Controllers\\BowlerController.cs",
+              "RelativeDocumentMoniker": "Alder_Mission10\\Controllers\\BowlerController.cs",
+              "ToolTip": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Controllers\\BowlerController.cs",
+              "RelativeToolTip": "Alder_Mission10\\Controllers\\BowlerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:43:13.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Program.cs",
+              "RelativeDocumentMoniker": "Alder_Mission10\\Program.cs",
+              "ToolTip": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Program.cs",
+              "RelativeToolTip": "Alder_Mission10\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:07:23.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BowlerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Data\\BowlerDbContext.cs",
+              "RelativeDocumentMoniker": "Alder_Mission10\\Data\\BowlerDbContext.cs",
+              "ToolTip": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Data\\BowlerDbContext.cs",
+              "RelativeToolTip": "Alder_Mission10\\Data\\BowlerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T02:00:32.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Data\\Bowler.cs",
+              "RelativeDocumentMoniker": "Alder_Mission10\\Data\\Bowler.cs",
+              "ToolTip": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Data\\Bowler.cs",
+              "RelativeToolTip": "Alder_Mission10\\Data\\Bowler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:53:32.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\appsettings.json",
+              "RelativeDocumentMoniker": "Alder_Mission10\\appsettings.json",
+              "ToolTip": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\appsettings.json",
+              "RelativeToolTip": "Alder_Mission10\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T02:06:28.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Data\\Team.cs",
+              "RelativeDocumentMoniker": "Alder_Mission10\\Data\\Team.cs",
+              "ToolTip": "C:\\Users\\salde\\source\\repos\\Alder_Mission10\\backend\\Alder_Mission10\\Alder_Mission10\\Data\\Team.cs",
+              "RelativeToolTip": "Alder_Mission10\\Data\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:58:15.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

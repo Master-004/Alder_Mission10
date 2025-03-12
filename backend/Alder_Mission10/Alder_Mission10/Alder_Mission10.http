@@ -1,0 +1,6 @@
+@Alder_Mission10_HostAddress = http://localhost:5234
+
+GET {{Alder_Mission10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
